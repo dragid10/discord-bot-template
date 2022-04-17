@@ -15,7 +15,7 @@ A brief description of what this project does and who it's for
 ## Deployment
 
 To deploy this project:
-1. [Template](https://github.com/dragid10/discord-bot-setup/generate) this repo
+1. [Template](https://github.com/dragid10/discord-bot-template/generate) this repo
 1. Clone and `cd` into the repo
 1. Run `make setup` to automatically install `poetry`
 1. Run `make update && make install` to update and install dependencies
