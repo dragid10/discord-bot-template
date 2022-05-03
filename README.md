@@ -17,6 +17,8 @@ Oauth2 link: `https://discord.com/api/oauth2/authorize?client_id=<CLIENT_ID>&per
 
 **Discord package**: [Py-Cord](https://docs.pycord.dev/en/master/index.html)
 
+**Unit Test Runner**: [Pytest](https://docs.pytest.org/en/stable/)
+
 ## Deployment
 
 To deploy this project:
