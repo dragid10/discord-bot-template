@@ -1,13 +1,16 @@
-
 # Discord Bot Template (python)
+
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
 
 Template for building discord apps  
 
 Oauth2 link: `https://discord.com/api/oauth2/authorize?client_id=<CLIENT_ID>&permissions=<PERMS_INT>&scope=bot%20applications.commands`
 
 ## Documentation
-- [Discord Scopes Explanation](https://discord.com/developers/docs/topics/oauth2)
 
+- [Discord Scopes Explanation](https://discord.com/developers/docs/topics/oauth2)
 
 ## Tech Stack
 
@@ -22,6 +25,7 @@ Oauth2 link: `https://discord.com/api/oauth2/authorize?client_id=<CLIENT_ID>&per
 ## Deployment
 
 To deploy this project:
+
 1. [Template](https://github.com/dragid10/discord-bot-template/generate) this repo
 1. Clone and `cd` into the repo
 1. Run `make setup` to automatically install `poetry`
@@ -32,4 +36,3 @@ To deploy this project:
 To run this project, you will need to add the following environment variables to your .env file
 
 `bot_token`: String
-
